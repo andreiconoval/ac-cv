@@ -1,0 +1,149 @@
+{
+  "profile": {
+    "name": "Andrei Conoval",
+    "title": "Software Engineer",
+    "tagline": "Full-stack .NET & JavaScript engineer",
+    "summary": "I build and maintain web applications across modern .NET and JavaScript stacks, combining C# and ASP.NET Core on the backend with React, Next.js, TypeScript, and SQL-driven systems on the frontend and data layer.",
+    "focusAreas": [
+      ".NET / ASP.NET Core",
+      "React & Next.js",
+      "SQL & relational modeling",
+      "Cloud & CI/CD"
+    ],
+    "social": {
+      "github": null,
+      "linkedin": "https://www.linkedin.com/in/andrei-conoval-b0baaa145/",
+      "email": "andreiconoval@gmail.com"
+    }
+  },
+  "stats": [
+    {
+      "label": "Years in software delivery",
+      "value": "7+"
+    },
+    {
+      "label": "Software roles across Romania and Moldova",
+      "value": "5"
+    },
+    {
+      "label": "SQL platforms used in practice",
+      "value": "3"
+    }
+  ],
+  "about": {
+    "heading": "Building reliable software across .NET backends, modern web frontends, and data-heavy systems.",
+    "intro": "I am a software engineer with strong full-stack experience across C#, ASP.NET Core, React, Next.js, TypeScript, and SQL. I enjoy building systems that stay practical in production and maintainable as products evolve.",
+    "principles": [
+      "Keep architecture clear, reliable, and easy to operate.",
+      "Design data models and queries with performance in mind.",
+      "Favor reusable UI and component libraries over one-off implementations.",
+      "Keep learning and apply new tools to real products quickly."
+    ],
+    "paragraphs": [
+      "My core stack spans C# and .NET with ASP.NET Core, Web API, MVC, and Razor, together with modern frontend work in React, Next.js, TypeScript, HTML, and CSS. I am also comfortable designing relational data layers and writing performance-minded SQL for PostgreSQL, Microsoft SQL Server, and MySQL.",
+      "Beyond feature delivery, I have built a production-style notification platform end to end using a Next.js frontend, .NET services, RabbitMQ messaging, and PostgreSQL. I have also worked with Blazor and created reusable Blazor libraries and components with clean APIs and maintainable UI building blocks.",
+      "I have experience with AWS, Azure, CI/CD workflows, and Git-based collaboration, and I value clean architecture, reliability, and continuous improvement. I recently completed my Master's degree in modern technologies in software engineering."
+    ]
+  },
+  "skills": [
+    {
+      "category": "Backend",
+      "summary": "Building APIs, business logic, and maintainable server applications in the .NET ecosystem.",
+      "items": [".NET", "C#", "ASP.NET Core", "Web API", "MVC", "Razor"]
+    },
+    {
+      "category": "Frontend",
+      "summary": "Creating modern web interfaces and reusable component-driven experiences.",
+      "items": ["React", "Next.js", "TypeScript", "HTML", "CSS", "Blazor"]
+    },
+    {
+      "category": "Data",
+      "summary": "Designing relational models and writing practical SQL across multiple database platforms.",
+      "items": ["PostgreSQL", "MS SQL Server", "MySQL", "SQL", "Relational modeling", "Query optimization"]
+    },
+    {
+      "category": "Cloud & DevOps",
+      "summary": "Deploying and operating production systems with cloud tooling, CI/CD, and messaging infrastructure.",
+      "items": ["AWS", "Azure", "CircleCI", "Git", "RabbitMQ", "CI/CD"]
+    }
+  ],
+  "experience": [
+    {
+      "company": "EBS Integrator",
+      "role": "Application Software Developer",
+      "period": "Jan 2024 - Present",
+      "summary": "Designing and developing need-based software programs in .NET while improving existing applications and database systems for specialized end-user roles.",
+      "achievements": [
+        "Designs and develops software programs using .NET languages, primarily C#.",
+        "Analyzes and resolves application errors while maintaining and upgrading existing software.",
+        "Designs and implements high-availability databases aligned with end-user information needs and specialized roles."
+      ],
+      "technologies": [".NET", "C#", "SQL", "Database design", "Application support"]
+    },
+    {
+      "company": "NetRom Software",
+      "role": "Application Software Developer",
+      "period": "Dec 2019 - Jan 2024",
+      "summary": "Developed enterprise applications with React and .NET Core, deployed frontend and backend services on AWS, and contributed to team leadership and migration work.",
+      "achievements": [
+        "Built applications using React and .NET Core across frontend and backend layers.",
+        "Handled frontend and backend deployments using AWS-based workflows.",
+        "Supported sprint planning, onboarded new team members, contributed as a technical lead, and worked on software migration efforts."
+      ],
+      "technologies": ["React", ".NET Core", "AWS", "Agile", "Software migration"]
+    },
+    {
+      "company": "Code Factory Group",
+      "role": "Software Engineer",
+      "period": "Nov 2017 - Jul 2018",
+      "summary": "Maintained and extended existing software while working directly with clients, designers, and stakeholders on renewal plans for current products.",
+      "achievements": [
+        "Communicated directly with clients and prepared weekly progress reports.",
+        "Maintained and developed existing software in an active delivery environment.",
+        "Created project plans for renewing current software and coordinated with designers and clients during implementation."
+      ],
+      "technologies": ["Software maintenance", "Client communication", "Planning", "Delivery"]
+    },
+    {
+      "company": "Bina Systems",
+      "role": "Intern",
+      "period": "Apr 2015 - May 2015",
+      "summary": "Built an early software project during internship work, covering application logic, database creation, and interface design.",
+      "achievements": [
+        "Developed a software project using ASP.NET, HTML, and CSS.",
+        "Created and developed a SQL Server database for the application.",
+        "Designed the interface for the application as part of the internship deliverable."
+      ],
+      "technologies": ["ASP.NET", "HTML", "CSS", "SQL Server"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Transylvania University of Brasov",
+      "credential": "Master's in Modern Technologies in Software Engineering",
+      "period": "2023 - 2026",
+      "notes": "Recently completed a Master's program focused on modern software engineering technologies in Brasov, Romania."
+    },
+    {
+      "institution": "Moldova State University",
+      "credential": "Bachelor's in Business and Administration",
+      "period": "2015 - 2018",
+      "notes": "Studied in English, took part in the 'Competitions and Competitiveness' training, led the class, and was active in university volunteering and student leadership."
+    },
+    {
+      "institution": "Center of Excellence in Informatics and Information Technologies",
+      "credential": "Technician",
+      "period": "2011 - 2015",
+      "notes": "Studied programming fundamentals, logical problem solving, database work, networking, and information technologies."
+    }
+  ],
+  "contact": {
+    "location": "Brasov, Romania - Remote-friendly / Open to hybrid collaboration",
+    "email": "andreiconoval@gmail.com",
+    "availability": "Based in Brasov and open to software engineering opportunities and collaboration.",
+    "social": {
+      "github": null,
+      "linkedin": "https://www.linkedin.com/in/andrei-conoval-b0baaa145/"
+    }
+  }
+}

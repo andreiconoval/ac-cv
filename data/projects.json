@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "self-hosted-notification-platform",
+    "title": "Self-Hosted Notification Platform",
+    "category": "Full-stack platform",
+    "period": "Recent work",
+    "summary": "An end-to-end notification platform built around a Next.js frontend, .NET services, RabbitMQ messaging, and PostgreSQL.",
+    "featured": true,
+    "technologies": ["Next.js", ".NET", "RabbitMQ", "PostgreSQL"],
+    "highlights": [
+      "Designed and self-hosted the platform end to end.",
+      "Combined a Next.js frontend with .NET services and RabbitMQ-based messaging.",
+      "Covered architecture, deployment, and operational concerns alongside feature delivery."
+    ],
+    "links": {
+      "repo": null,
+      "demo": null
+    }
+  },
+  {
+    "slug": "enterprise-react-dotnet-delivery",
+    "title": "Enterprise React & .NET Delivery",
+    "category": "Enterprise applications",
+    "period": "2019 - 2024",
+    "summary": "A body of enterprise application work built with React and .NET Core, deployed across frontend and backend environments on AWS.",
+    "featured": true,
+    "technologies": ["React", ".NET Core", "AWS", "Agile delivery"],
+    "highlights": [
+      "Developed applications across both frontend and backend layers.",
+      "Handled frontend and backend deployments using AWS.",
+      "Contributed to sprint planning, onboarding, technical leadership, and software migration work."
+    ],
+    "links": {
+      "repo": null,
+      "demo": null
+    }
+  },
+  {
+    "slug": "high-availability-database-systems",
+    "title": "High-Availability Database Systems",
+    "category": "Data & backend engineering",
+    "period": "2024 - Present",
+    "summary": "Database-focused work centered on designing and implementing reliable systems that match end-user roles and information needs.",
+    "featured": true,
+    "technologies": ["SQL", "Database design", "Relational modeling", ".NET"],
+    "highlights": [
+      "Built database systems with a focus on availability and quality.",
+      "Designed databases around specialized user roles, information needs, and views.",
+      "Worked alongside application maintenance and error resolution in a production setting."
+    ],
+    "links": {
+      "repo": null,
+      "demo": null
+    }
+  },
+  {
+    "slug": "blazor-component-library",
+    "title": "Reusable Blazor Component Library",
+    "category": "UI engineering",
+    "period": "Recent work",
+    "summary": "A set of reusable Blazor libraries and components focused on clean APIs and maintainable UI building blocks.",
+    "featured": false,
+    "technologies": ["Blazor", ".NET", "Component design", "UI reuse"],
+    "highlights": [
+      "Built reusable Blazor components instead of one-off screens.",
+      "Focused on clean APIs that made the library easier to consume and maintain.",
+      "Treated component quality and reuse as part of long-term UI maintainability."
+    ],
+    "links": {
+      "repo": null,
+      "demo": null
+    }
+  }
+]
