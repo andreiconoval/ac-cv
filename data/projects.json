@@ -1,9 +1,48 @@
 [
   {
+    "slug": "ai-chat-assistant-saas",
+    "title": "AI Chat Assistant for Web Stores (SaaS)",
+    "category": "Personal project",
+    "period": "2026",
+    "summary": "Multi-tenant SaaS platform that lets web store owners embed a customizable AI chat assistant into their storefront, powered by Mastra and Google Gemini with product catalog semantic search.",
+    "featured": true,
+    "technologies": ["Next.js", "Mastra", "TypeScript", "PostgreSQL", "pgvector", "Prisma", "Stripe", "Google Gemini"],
+    "highlights": [
+      "Built a Next.js SaaS dashboard where tenants configure their AI agent, widget appearance, and product catalog.",
+      "Integrated Mastra with Google Gemini 2.5 Flash to power a per-tenant AI agent scoped to each store's products.",
+      "Implemented pgvector-based semantic search so the agent answers product questions from the store's catalog.",
+      "Delivered a standalone vanilla JS embeddable widget (built with Vite) that streams AI responses in real time.",
+      "Designed a multi-tenant architecture with API key authentication, rate limiting, and Stripe billing."
+    ],
+    "links": {
+      "repo": null,
+      "demo": null
+    }
+  },
+  {
+    "slug": "modular-dotnet-api-notifications",
+    "title": "Modular .NET Core API with Notifications",
+    "category": "Backend engineering",
+    "period": "2025 - 2026",
+    "summary": "Modular .NET Core API built with FastEndpoints, designed around a clean separation of modules and integrated with a notification system.",
+    "featured": true,
+    "technologies": ["C#", ".NET Core", "FastEndpoints", "SQL", "Notifications"],
+    "highlights": [
+      "Built a modular .NET Core API using FastEndpoints for structured, endpoint-per-feature organization.",
+      "Designed the architecture around independent modules to keep the codebase maintainable and scalable.",
+      "Implemented a notification system integrated across the modular structure.",
+      "Contributed as the primary .NET developer responsible for the API layer."
+    ],
+    "links": {
+      "repo": null,
+      "demo": null
+    }
+  },
+  {
     "slug": "self-hosted-notification-platform",
     "title": "Self-Hosted Notification Platform",
-    "category": "Full-stack platform",
-    "period": "Recent work",
+    "category": "Personal project",
+    "period": "Nov 2025 - Feb 2026",
     "summary": "An end-to-end notification platform built around a Next.js frontend, .NET services, RabbitMQ messaging, and PostgreSQL.",
     "featured": true,
     "technologies": ["Next.js", ".NET", "RabbitMQ", "PostgreSQL"],
@@ -18,17 +57,17 @@
     }
   },
   {
-    "slug": "enterprise-react-dotnet-delivery",
-    "title": "Enterprise React & .NET Delivery",
-    "category": "Enterprise applications",
-    "period": "2019 - 2024",
-    "summary": "A body of enterprise application work built with React and .NET Core, deployed across frontend and backend environments on AWS.",
+    "slug": "microservices-multi-load",
+    "title": "Microservices with Multi-Project Database Architecture",
+    "category": "Backend engineering",
+    "period": "2020 - 2023",
+    "summary": "Designed and implemented microservices backed by purpose-built databases, scaled to handle the load requirements of multiple concurrent projects within the same platform.",
     "featured": true,
-    "technologies": ["React", ".NET Core", "AWS", "Agile delivery"],
+    "technologies": ["SQL", "Database design", "Relational modeling", ".NET"],
     "highlights": [
-      "Developed applications across both frontend and backend layers.",
-      "Handled frontend and backend deployments using AWS.",
-      "Contributed to sprint planning, onboarding, technical leadership, and software migration work."
+      "Architected microservices with isolated databases tailored to each service's data model and access patterns.",
+      "Ensured each database layer could handle varying load profiles across different active projects.",
+      "Collaborated on schema design and relational modeling to match end-user roles and information needs."
     ],
     "links": {
       "repo": null,
@@ -36,17 +75,75 @@
     }
   },
   {
-    "slug": "high-availability-database-systems",
-    "title": "High-Availability Database Systems",
-    "category": "Data & backend engineering",
-    "period": "2024 - Present",
-    "summary": "Database-focused work centered on designing and implementing reliable systems that match end-user roles and information needs.",
+    "slug": "chat-dashboard-integration",
+    "title": "Chat Dashboard & Chat Integration",
+    "category": "Full-stack platform",
+    "period": "Jan 2023 - Dec 2023",
+    "summary": "Client and Agent communication platform with an agent dashboard for message handling and notifications, integrated into an existing solution.",
     "featured": true,
-    "technologies": ["SQL", "Database design", "Relational modeling", ".NET"],
+    "technologies": ["React", ".NET", "AWS", "CI/CD", "SQL"],
     "highlights": [
-      "Built database systems with a focus on availability and quality.",
-      "Designed databases around specialized user roles, information needs, and views.",
-      "Worked alongside application maintenance and error resolution in a production setting."
+      "Led technical direction and established project specifications as Technical Lead.",
+      "Built the application from scratch, defining both frontend and backend structure.",
+      "Handled full AWS deployment and CI/CD pipeline setup.",
+      "Designed and developed the database layer."
+    ],
+    "links": {
+      "repo": null,
+      "demo": null
+    }
+  },
+  {
+    "slug": "transport-company-subscription-dashboard",
+    "title": "Transport Company Subscription Dashboard",
+    "category": "Enterprise applications",
+    "period": "2021",
+    "summary": "Client dashboard for managing public transport subscriptions, developed as Technical Lead with focus on frontend and backend improvement.",
+    "featured": false,
+    "technologies": ["React", ".NET Core", "AWS"],
+    "highlights": [
+      "Led task delegation and coached team members to improve skill sets.",
+      "Translated designs and wireframes into working frontend code.",
+      "Improved and refactored existing backend services."
+    ],
+    "links": {
+      "repo": null,
+      "demo": null
+    }
+  },
+  {
+    "slug": "transport-booking-platform",
+    "title": "Transport Booking Platform",
+    "category": "Full-stack platform",
+    "period": "2022",
+    "summary": "Client platform and CallCenter website for booking public transport trips, built from scratch with push notifications and AWS deployment.",
+    "featured": true,
+    "technologies": ["React", ".NET", "AWS", "CI/CD", "SQL", "Push notifications"],
+    "highlights": [
+      "Built backend and frontend components from scratch, including legacy code migration.",
+      "Created a push notification service for client alerts.",
+      "Configured a pipeline for client profile importing.",
+      "Handled full AWS deployment and CI/CD pipeline setup.",
+      "Designed and developed the database layer."
+    ],
+    "links": {
+      "repo": null,
+      "demo": null
+    }
+  },
+  {
+    "slug": "blazor-document-application-portal",
+    "title": "Document Application Portal (Blazor)",
+    "category": "Full-stack platform",
+    "period": "2024 - 2025",
+    "summary": "Front office Blazor application allowing clients to submit and manage documents, integrated with third-party processing solutions and featuring complex multi-type document application forms.",
+    "featured": true,
+    "technologies": ["Blazor", ".NET", "C#", "HTML", "CSS", "Third-party integration"],
+    "highlights": [
+      "Built the full client-facing front office as a Blazor application.",
+      "Implemented complex document application forms supporting multiple document types.",
+      "Integrated the frontend with third-party document processing solutions.",
+      "Delivered the complete UI using HTML and CSS within the Blazor component model."
     ],
     "links": {
       "repo": null,
@@ -57,7 +154,7 @@
     "slug": "blazor-component-library",
     "title": "Reusable Blazor Component Library",
     "category": "UI engineering",
-    "period": "Recent work",
+    "period": "Nov 2025 - Feb 2026",
     "summary": "A set of reusable Blazor libraries and components focused on clean APIs and maintainable UI building blocks.",
     "featured": false,
     "technologies": ["Blazor", ".NET", "Component design", "UI reuse"],

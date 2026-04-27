@@ -39,12 +39,10 @@ export function Contact({ contact }: ContactProps) {
       <div className="mt-4 grid gap-8 lg:grid-cols-[1fr_1.1fr]">
         <div className="space-y-4">
           <h2 className="text-3xl font-semibold tracking-tight">
-            Ready for the next meaningful build.
+            Let&apos;s work together.
           </h2>
           <p className="text-base leading-7 text-muted">
-            This MVP keeps the contact section simple and trustworthy: direct links,
-            clear availability, and editable profile data stored in JSON. If you want
-            to add a form later, wire it into an API route or external form service.
+            I&apos;m open to new opportunities, collaborations, and interesting engineering challenges. Feel free to reach out directly — I&apos;m always happy to connect.
           </p>
           <div className="inline-flex items-center gap-2 rounded-full border border-border bg-background/80 px-4 py-2 text-sm text-muted">
             <MapPin className="h-4 w-4 text-accent" />

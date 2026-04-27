@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "Andrei Conoval",
-    "title": "Software Engineer",
+    "title": ".NET Developer",
     "tagline": "Full-stack .NET & JavaScript engineer",
     "summary": "I build and maintain web applications across modern .NET and JavaScript stacks, combining C# and ASP.NET Core on the backend with React, Next.js, TypeScript, and SQL-driven systems on the frontend and data layer.",
     "focusAreas": [
@@ -23,7 +23,7 @@
     },
     {
       "label": "Software roles across Romania and Moldova",
-      "value": "5"
+      "value": "4"
     },
     {
       "label": "SQL platforms used in practice",
@@ -42,19 +42,19 @@
     "paragraphs": [
       "My core stack spans C# and .NET with ASP.NET Core, Web API, MVC, and Razor, together with modern frontend work in React, Next.js, TypeScript, HTML, and CSS. I am also comfortable designing relational data layers and writing performance-minded SQL for PostgreSQL, Microsoft SQL Server, and MySQL.",
       "Beyond feature delivery, I have built a production-style notification platform end to end using a Next.js frontend, .NET services, RabbitMQ messaging, and PostgreSQL. I have also worked with Blazor and created reusable Blazor libraries and components with clean APIs and maintainable UI building blocks.",
-      "I have experience with AWS, Azure, CI/CD workflows, and Git-based collaboration, and I value clean architecture, reliability, and continuous improvement. I recently completed my Master's degree in modern technologies in software engineering."
+      "I have experience with AWS, Azure, CI/CD workflows, and Git-based collaboration, and I value clean architecture, reliability, and continuous improvement. I hold a Master's degree in modern technologies in software engineering."
     ]
   },
   "skills": [
     {
       "category": "Backend",
       "summary": "Building APIs, business logic, and maintainable server applications in the .NET ecosystem.",
-      "items": [".NET", "C#", "ASP.NET Core", "Web API", "MVC", "Razor"]
+      "items": [".NET", "C#", "VB.NET", "ASP.NET Core", "Web API", "MVC", "Razor", "Entity Framework Core"]
     },
     {
       "category": "Frontend",
       "summary": "Creating modern web interfaces and reusable component-driven experiences.",
-      "items": ["React", "Next.js", "TypeScript", "HTML", "CSS", "Blazor"]
+      "items": ["React", "Next.js", "TypeScript", "HTML", "CSS", "Blazor", "Material UI"]
     },
     {
       "category": "Data",
@@ -121,8 +121,8 @@
     {
       "institution": "Transylvania University of Brasov",
       "credential": "Master's in Modern Technologies in Software Engineering",
-      "period": "2023 - 2026",
-      "notes": "Recently completed a Master's program focused on modern software engineering technologies in Brasov, Romania."
+      "period": "2023 - 2025",
+      "notes": "Completed a Master's program focused on modern software engineering technologies in Brasov, Romania."
     },
     {
       "institution": "Moldova State University",
